@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://rating-card-dev-arunika.netlify.app/)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/shidqiiii/Interactive-rating-component)
+- Live Site URL: [Netlify](https://rating-card-dev-arunika.netlify.app/)
 
 ## My process
 
